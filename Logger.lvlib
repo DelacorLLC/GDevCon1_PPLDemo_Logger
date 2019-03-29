@@ -92,6 +92,8 @@
 		<Item Name="Log Data to File.vi" Type="VI" URL="../Log Data to File.vi"/>
 		<Item Name="Close File.vi" Type="VI" URL="../Close File.vi"/>
 	</Item>
-	<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
+	<Item Name="Main.vi" Type="VI" URL="../Main.vi">
+		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+	</Item>
 	<Item Name="Test Logger API.vi" Type="VI" URL="../Test Logger API.vi"/>
 </Library>
